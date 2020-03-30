@@ -1,17 +1,27 @@
 # 免费v2ray
 
+
+
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSEstQkdQLUEg6aaZ5rivIiwNCiAgImFkZCI6ICIxYjVtNTguaGsuc3RhdGljLmlwdjQub3Jlb2FwaS5jb20iLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJCQUZDOENGRS1GNURGLUFBRTctMjE4OS01RDBCMzNENDdGNjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImhrMDEtY3hpbHMtY29tLmFsaWt1bmx1bi5jb20iLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiINCn0=
 ```
-
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSEstQkdQLUIg6aaZ5rivIiwNCiAgImFkZCI6ICIydTc2ZjkuaGsuc3RhdGljLmlwdjQub3Jlb2FwaS5jb20iLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJCQUZDOENGRS1GNURGLUFBRTctMjE4OS01RDBCMzNENDdGNjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
-
 ```
-
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSEstQkdQLUMg6aaZ5rivIiwNCiAgImFkZCI6ICIybjc2ajMuY24uc3RhdGljLmlwdjQub3Jlb2FwaS5jb20iLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJCQUZDOENGRS1GNURGLUFBRTctMjE4OS01RDBCMzNENDdGNjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIml0dW5lcy5hcHBsZS5jb20uaGsuaG1keHMuY29tIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
-
+```
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSEstQkdQLUQg6aaZ5rivIiwNCiAgImFkZCI6ICI0djJ2NHcuY24uc3RhdGljLmlwdjQub3Jlb2FwaS5jb20iLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJCQUZDOENGRS1GNURGLUFBRTctMjE4OS01RDBCMzNENDdGNjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIml0dW5lcy5hcHBsZS5jb20uaGsuaG1keHMuY29tIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiDQp9
+```
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUEg5pel5pysIiwNCiAgImFkZCI6ICIxZGE3N3kuY24uc3RhdGljLmlwdjQub3Jlb2FwaS5jb20iLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJCQUZDOENGRS1GNURGLUFBRTctMjE4OS01RDBCMzNENDdGNjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIml0dW5lcy5hcHBsZS5jb20uYWpheC5taWNyb3NvZnQuY29tLmNuLmJpbmcuY29tLmpwLnNteGh4LmNvbSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+```
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUIg5pel5pysIiwNCiAgImFkZCI6ICIybjc2ajMuY24uc3RhdGljLmlwdjQub3Jlb2FwaS5jb20iLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJCQUZDOENGRS1GNURGLUFBRTctMjE4OS01RDBCMzNENDdGNjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIml0dW5lcy5hcHBsZS5jb20uYWpheC5taWNyb3NvZnQuY29tLmNuLmJpbmcuY29tLmpwLnNteGh4LmNvbSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
+```
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIjEuMHggSlAtQkdQLUMg5pel5pysIiwNCiAgImFkZCI6ICIzNmYyMzUuY24uc3RhdGljLmlwdjQub3Jlb2FwaS5jb20iLA0KICAicG9ydCI6ICI4MCIsDQogICJpZCI6ICJCQUZDOENGRS1GNURGLUFBRTctMjE4OS01RDBCMzNENDdGNjUiLA0KICAiYWlkIjogIjAiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIml0dW5lcy5hcHBsZS5jb20uYWpheC5taWNyb3NvZnQuY29tLmNuLmJpbmcuY29tLmpwLnNteGh4LmNvbSIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIg0KfQ==
 ```
 
 # v2ray 机场墙裂推荐
@@ -37,26 +47,34 @@ https://go.qianglie.cc/aff.php?aff=627
 
 # 客户端下载
 
-Android
+1. Android
 
 [v2rayNG](https://github.com/2dust/v2rayNG/releases)
 
-Windows
+2. Windows
 
 [v2rayN](https://github.com/2dust/v2rayN/releases)
 
-Mac客户端
+3. Mac客户端
 
 [v2rayX](https://github.com/insisttech/v2rayX-copy/releases)
 
-iOS客户端
+4. iOS客户端
 
 kitsunebi 或 Kitsunebi Lite iOS 或
 [注册美区Apple ID教程](https://zhuanlan.zhihu.com/p/36574047)
 
+Shadowrocket软件账号密码
+
+>qianglie@protonmail.com
+>
+>FfH#ZqBDYg66
+
+
+
 # 使用方法
 
-[**各平台图文教程**](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
+## [**各平台图文教程**](https://github.com/Alvin9999/new-pac/wiki/v2ray%E5%90%84%E5%B9%B3%E5%8F%B0%E5%9B%BE%E6%96%87%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B)
 
 墙裂v2rayNG配置
 
