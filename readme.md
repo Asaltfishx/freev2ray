@@ -31,8 +31,10 @@ https://go.qianglie.cc/aff.php?aff=627
 > 高达 500Mbps 速率可用
 
 # vps推荐
-服务器稳定，有CN2 GIA线路较好，适合建站和代理，支持支付宝、PayPal付款
+服务器稳定，有CN2 GIA线路较好，适合建站和代理，支持支付宝、
+
 https://manage.hostdare.com/aff.php?aff=2617
+
 https://bwh88.net/aff.php?aff=59041
 
 # 客户端下载
